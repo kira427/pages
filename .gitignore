@@ -1,5 +1,5 @@
 /node_modules
-/local/build/js/
+# /local/build/js/
 /local/build/css/
 /local/build/scss/
 /local/build/*.html
